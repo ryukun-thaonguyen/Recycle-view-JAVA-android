@@ -1,2 +1,2 @@
 # recycle view JAVA android
-![alt text](./UI/re.png)
+![alt text](/UI/re.png)
